@@ -1,224 +1,83 @@
+<h1 align="center">Sphere Developers</h1>
+
+<p align="center">
+  <b>A software development company building intelligent computational systems at the intersection of physics, finance, and engineering.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Company-Software%20Development-2c3e50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Fintech%20%7C%20Energy%20%7C%20AI-2c3e50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Active-4caf50?style=flat-square" />
+</p>
 
 ---
 
-🌐 Sphere Developers
+## 🏢 About Sphere Developers
 
-Sphere Developers is a collaborative software engineering organization focused on building intelligent, scalable, and publicly accessible digital systems.
+Sphere Developers is a software development company specializing in the design and engineering of intelligent, data-driven systems for finance, energy, and automation. We build production-grade platforms — from real-time trading tools to renewable energy simulators — combining rigorous mathematical modeling with modern software architecture.
 
-We design and develop real-world software solutions that integrate:
-
-Computational Modeling
-
-Optimization & Automation
-
-Financial Systems Engineering
-
-Smart Infrastructure Simulation
-
-Full-Stack Application Development
-
-
-Our mission is to build structured, impactful systems that solve real-world coordination, financial, and infrastructure challenges.
-
+Our work spans full-stack development, backend engineering, and applied data science, delivered as scalable, public-facing digital products.
 
 ---
 
-🚀 What We Build
+## 🛠 Technology Stack
 
-📅 Intelligent Scheduling & Coordination Platform
+**Programming**
+- Python
+- Kotlin
+- C#
+- MQL5
 
-A centralized productivity system combining:
+**Backend & Infrastructure**
+- ASP.NET Core
+- REST APIs
+- MySQL
+- SQL Server
 
-Structured scheduling logic
+**Data & Analytics**
+- Pandas
+- NumPy
+- Matplotlib
+- Time-Series Analysis
+- Pattern Recognition
 
-Meeting orchestration
-
-Real-time communication
-
-Database-driven workflow management
-
-Conflict detection mechanisms
-
-
-Designed to simplify organizational coordination within a unified system.
-
-
----
-
-💼 Investment Portfolio Management System
-
-A financial tracking and portfolio analysis platform enabling:
-
-Capital management
-
-Returns modeling
-
-Withdrawal analytics
-
-Data visualization dashboards
-
-Financial performance reporting
-
-
-Built with scalable backend architecture and structured data modeling.
-
+**Simulation & Optimization**
+- Mathematical Modeling
+- Constraint-Based Optimization
+- Energy System Simulation
+- Financial Backtesting Frameworks
 
 ---
 
-📊 Financial Signal Processing & Backtesting Engine
+## 📈 Current Focus Areas
 
-A trading automation framework capable of:
-
-Parsing structured and semi-structured trade signals
-
-Pattern recognition logic
-
-Historical trade simulation
-
-Risk-reward analysis
-
-Equity curve generation
-
-Performance metrics reporting
-
-
-Designed for systematic financial strategy validation.
-
+- Intelligent financial systems
+- Renewable energy simulation
+- Optimization algorithms
+- Time-series forecasting
+- Automation frameworks
+- Public-facing digital platforms
 
 ---
 
-⚡ Smart Grid Energy Simulation & Optimization
-
-A physics-driven simulation engine integrating:
-
-Solar irradiance weather datasets
-
-Photovoltaic output modeling
-
-Battery storage dynamics
-
-Time-series energy demand simulation
-
-Optimization under system constraints
-
-Performance analytics & reporting
-
-
-Focused on renewable energy efficiency and infrastructure modeling.
-
-
----
-
-🧠 Engineering Philosophy
-
-At Sphere Developers, we believe software should be:
-
-Mathematically grounded
-
-Data-driven
-
-Optimization-oriented
-
-Modular and scalable
-
-Built for real-world deployment
-
-
-We emphasize structured architecture, clean system design, and intelligent automation.
-
-
----
-
-🛠 Technology Stack
-
-Programming
-
-Python
-
-Kotlin
-
-C#
-
-MQL5
-
-
-Backend & Infrastructure
-
-ASP.NET Core
-
-REST APIs
-
-MySQL
-
-SQL Server
-
-
-Data & Analytics
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Time-Series Analysis
-
-Pattern Recognition
-
-
-Simulation & Optimization
-
-Mathematical Modeling
-
-Constraint-Based Optimization
-
-Energy System Simulation
-
-Financial Backtesting Frameworks
-
-
-
----
-
-📈 Current Focus Areas
-
-Intelligent financial systems
-
-Renewable energy simulation
-
-Optimization algorithms
-
-Time-series forecasting
-
-Automation frameworks
-
-Public-facing digital platforms
-
-
-
----
-
-🌍 Vision
+## 🌍 Vision
 
 To develop intelligent computational systems that integrate physics, finance, and modern software engineering into scalable public solutions.
 
-
 ---
 
-🤝 Collaboration
+## 🤝 Collaboration
 
 Sphere Developers welcomes collaboration in:
 
-Simulation-based research
-
-Fintech system development
-
-Smart infrastructure modeling
-
-Backend engineering
-
-Machine learning applications
-
-
+- Simulation-based research
+- Fintech system development
+- Smart infrastructure modeling
+- Backend engineering
+- Machine learning applications
 
 ---
+
+<p align="center">
+  <i>Building scalable, intelligent systems — one platform at a time.</i>
+</p>
